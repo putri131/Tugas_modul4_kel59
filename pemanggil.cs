@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Tugas_Modul4_kel59
 {
-    class pendefinisi
+    class pemanggil
     {
-        static void id_kel(String a, String b, String c, String d)
+        static void id_kel(String kelompok, String shift, String nama1, String nama2)
         {
-            Console.WriteLine("Kelompok {0} - Shift {1} Praktikum DKP 2020 \n {2} \n {3}", a, b, c, d);
+            Console.WriteLine("Kelompok {0} - Shift {1} Praktikum DKP 2020 \n {2} \n {3}", kelompok, shift, nama1, nama2);
             Console.WriteLine("=====================================================================\n");
         }
         static String welcome()

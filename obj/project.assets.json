@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tugas_modul4_kel59\\Tugas_Modul4_kel59.csproj",
+      "projectUniqueName": "D:\\Praktikum\\Tugas_modul4_kel59\\Tugas_Modul4_kel59.csproj",
       "projectName": "Tugas_Modul4_kel59",
-      "projectPath": "D:\\Tugas_modul4_kel59\\Tugas_Modul4_kel59.csproj",
+      "projectPath": "D:\\Praktikum\\Tugas_modul4_kel59\\Tugas_Modul4_kel59.csproj",
       "packagesPath": "C:\\Users\\FADZIL FERDIAWAN\\.nuget\\packages\\",
-      "outputPath": "D:\\Tugas_modul4_kel59\\obj\\",
+      "outputPath": "D:\\Praktikum\\Tugas_modul4_kel59\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FADZIL FERDIAWAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
