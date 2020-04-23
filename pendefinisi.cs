@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Tugas_Modul4_kel59
 {
-    class Program
+    class pendefinisi
     {
         static void id_kel(String a, String b, String c, String d)
         {

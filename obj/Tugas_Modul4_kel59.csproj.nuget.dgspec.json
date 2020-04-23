@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Aplikasi\\Visual Studio\\Tugas_Modul4_kel59\\Tugas_Modul4_kel59.csproj": {}
+    "D:\\Tugas_modul4_kel59\\Tugas_Modul4_kel59.csproj": {}
   },
   "projects": {
-    "E:\\Aplikasi\\Visual Studio\\Tugas_Modul4_kel59\\Tugas_Modul4_kel59.csproj": {
+    "D:\\Tugas_modul4_kel59\\Tugas_Modul4_kel59.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aplikasi\\Visual Studio\\Tugas_Modul4_kel59\\Tugas_Modul4_kel59.csproj",
+        "projectUniqueName": "D:\\Tugas_modul4_kel59\\Tugas_Modul4_kel59.csproj",
         "projectName": "Tugas_Modul4_kel59",
-        "projectPath": "E:\\Aplikasi\\Visual Studio\\Tugas_Modul4_kel59\\Tugas_Modul4_kel59.csproj",
-        "packagesPath": "C:\\Users\\Putri R\\.nuget\\packages\\",
-        "outputPath": "E:\\Aplikasi\\Visual Studio\\Tugas_Modul4_kel59\\obj\\",
+        "projectPath": "D:\\Tugas_modul4_kel59\\Tugas_Modul4_kel59.csproj",
+        "packagesPath": "C:\\Users\\FADZIL FERDIAWAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Tugas_modul4_kel59\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Putri R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FADZIL FERDIAWAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

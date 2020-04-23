@@ -11,3 +11,16 @@ E:\Aplikasi\Visual Studio\Tugas_Modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul
 E:\Aplikasi\Visual Studio\Tugas_Modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.dll
 E:\Aplikasi\Visual Studio\Tugas_Modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.pdb
 E:\Aplikasi\Visual Studio\Tugas_Modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.genruntimeconfig.cache
+D:\Tugas_modul4_kel59\bin\Debug\netcoreapp3.1\Tugas_Modul4_kel59.exe
+D:\Tugas_modul4_kel59\bin\Debug\netcoreapp3.1\Tugas_Modul4_kel59.deps.json
+D:\Tugas_modul4_kel59\bin\Debug\netcoreapp3.1\Tugas_Modul4_kel59.runtimeconfig.json
+D:\Tugas_modul4_kel59\bin\Debug\netcoreapp3.1\Tugas_Modul4_kel59.runtimeconfig.dev.json
+D:\Tugas_modul4_kel59\bin\Debug\netcoreapp3.1\Tugas_Modul4_kel59.dll
+D:\Tugas_modul4_kel59\bin\Debug\netcoreapp3.1\Tugas_Modul4_kel59.pdb
+D:\Tugas_modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.csprojAssemblyReference.cache
+D:\Tugas_modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.csproj.CoreCompileInputs.cache
+D:\Tugas_modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.AssemblyInfoInputs.cache
+D:\Tugas_modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.AssemblyInfo.cs
+D:\Tugas_modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.dll
+D:\Tugas_modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.pdb
+D:\Tugas_modul4_kel59\obj\Debug\netcoreapp3.1\Tugas_Modul4_kel59.genruntimeconfig.cache
